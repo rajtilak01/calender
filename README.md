@@ -4,7 +4,7 @@ A react demo of google calendar
 
 ## Watch it being used live
 
-[React Google Calendar Clone](https://react-google-calendar-clone.netlify.com/)
+[React Google Calendar Clone](https://calender-theta-two.vercel.app/)
 
 ## Running the Demo
 
